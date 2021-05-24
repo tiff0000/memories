@@ -1,6 +1,7 @@
 client folder: react app, npx create-react app ./
 
 npm axios moment react-file-base64 redux redux-thunk
+npm i @material-ui/core
 
 axios: for making api requests
 moment: for date and time
@@ -11,3 +12,8 @@ You can now view client in the browser.
 
   Local:            http://localhost:3000
   On Your Network:  http://192.168.2.22:3000
+
+
+  npm i redux react-redux
+
+  

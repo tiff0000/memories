@@ -15,3 +15,12 @@ tiffanydev
 zN75qWYzfxPUQVG5
 
 store this in dev environment later
+
+controllers : all the backend logic, to be more scalable
+inside, create all handlers for the routes
+
+react don't need .js extension,
+but in node, have to write import "filename.js"
+
+the http error message codes:
+//https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXllc196RV9DOTFHWmNXM0RJek1UNEpMblA3QXxBQ3Jtc0tua2Zob1YtQjR2ZHRmdDQxNmxxSkNORWozRWc2aXhpcUlRWXRLM2lhWVgtcGZaUWFINFI1aGNPX1JraDBsT0wtSWd3bUFON3VNSFRfTl82LWZQRnlKMUw1YjhzRlpETFh4Q0s2UVR2Szc3cHBCcEFxaw&q=https%3A%2F%2Fwww.restapitutorial.com%2Fhttpstatuscodes.html
