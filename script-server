@@ -1,0 +1,17 @@
+server folder: where node.js reside: npm init -y
+
+npm i body-parser cors express mongoose nodemon
+body-parse: for post requests
+cors: cross origin
+express: for the routes
+
+in package.json: add "type": "module",
+to use the import syntax instead of const x = require
+
+mongodb atlas
+
+db user
+tiffanydev
+zN75qWYzfxPUQVG5
+
+store this in dev environment later
